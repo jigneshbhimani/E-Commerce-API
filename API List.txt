@@ -1,0 +1,12 @@
+1. django
+2. django_filters
+3. djangorestframework
+4. asgiref
+5. cffi
+6. knox
+7. pip
+8. pycparser
+9. pytz
+10. rest_framework
+11. sqlparse
+12. stripe
